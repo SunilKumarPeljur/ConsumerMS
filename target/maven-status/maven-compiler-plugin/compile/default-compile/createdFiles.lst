@@ -1,1 +1,3 @@
-com\training\ClientMsApplication.class
+com\training\ConsumerService.class
+com\training\ConsumeServices.class
+com\training\Orders.class
