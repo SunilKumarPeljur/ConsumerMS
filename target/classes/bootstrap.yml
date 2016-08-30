@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: consumer-ms
+  cloud:
+    config:
+      uri: http://localhost:9190
+      
+server:
+  port: 9198
